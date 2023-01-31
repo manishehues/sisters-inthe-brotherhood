@@ -1,0 +1,20 @@
+[20-Oct-2022 05:12:56 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home4/woazuymy/public_html/sisters-inthe-brotherhood/wp-content/themes/neve/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/woazuymy/public_html/sisters-inthe-brotherhood/wp-content/themes/neve/index.php on line 15
+[01-Dec-2022 11:11:34 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home4/woazuymy/public_html/sisters-inthe-brotherhood/wp-content/themes/neve/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/woazuymy/public_html/sisters-inthe-brotherhood/wp-content/themes/neve/index.php on line 15
+[02-Dec-2022 02:02:11 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home4/woazuymy/public_html/sisters-inthe-brotherhood/wp-content/themes/neve/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/woazuymy/public_html/sisters-inthe-brotherhood/wp-content/themes/neve/index.php on line 15
+[05-Dec-2022 05:15:47 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home4/woazuymy/public_html/sisters-inthe-brotherhood/wp-content/themes/neve/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/woazuymy/public_html/sisters-inthe-brotherhood/wp-content/themes/neve/index.php on line 15
+[20-Jan-2023 02:16:58 America/Boise] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home4/woazuymy/public_html/sisters-inthe-brotherhood/wp-content/themes/neve/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home4/woazuymy/public_html/sisters-inthe-brotherhood/wp-content/themes/neve/index.php on line 15

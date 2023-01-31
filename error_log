@@ -1,0 +1,1 @@
+[20-Jan-2023 09:34:02 UTC] Cron reschedule event error for hook: elementor_1_elementor_pro_updater_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"elementor_1_elementor_pro_updater_cron_interval","args":[],"interval":300}
